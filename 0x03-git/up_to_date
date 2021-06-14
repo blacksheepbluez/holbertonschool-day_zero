@@ -1,6 +1,1 @@
-there is a clever way to make files.
-
-1) simply write in the name of the non esxistent file "emacs up_to_date" and start writing within the new created file.
-
-2) touch up_to_date; this will create the file withing the directory.
-
+git pull
