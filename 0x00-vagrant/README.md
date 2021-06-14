@@ -1,1 +1,1 @@
-Vagrant is an interesting concept.
+This file is mandatory in all Holberton School projects.
