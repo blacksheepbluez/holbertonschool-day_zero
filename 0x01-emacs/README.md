@@ -1,1 +1,0 @@
-This is all for Emacs. it's great, its easy to use, and command friendly.
