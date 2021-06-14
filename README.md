@@ -1,0 +1,1 @@
+this is a fun run through the grounding frameworks of using linux and developing an understanding for basic coding to share with others.

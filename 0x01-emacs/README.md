@@ -1,0 +1,1 @@
+This is a basic run through with emacs commands. An easy way is to use f10 as a resource!
