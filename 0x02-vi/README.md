@@ -1,1 +1,1 @@
-This is one of those really cool resource friendly coding enviornments, and is actually augmented in the musical language?!
+This is an editor alot like emacs, with very different commands! 
